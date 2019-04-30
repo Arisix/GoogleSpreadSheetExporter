@@ -9,7 +9,7 @@ Uses OAuth2 to access private documents.
 2. Open the solution with Visual Studio and switch the build configuration to Release.
 3. Build and Run.
 
-...or you can just download the execution file from (release)[https://github.com/Arisix/GoogleSpreadSheetExporter/releases/download/v1.0.0/GoogleSpreadSheetExporter.zip].
+...or you can just download the execution file from [release](https://github.com/Arisix/GoogleSpreadSheetExporter/releases/download/v1.0.0/GoogleSpreadSheetExporter.zip).
 
 ## Usage
 
