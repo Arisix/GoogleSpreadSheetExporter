@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+  </startup>
+  <appSettings>
+    <!-- Get this from https://console.developers.google.com/apis/credentials -->
+    <add key="CLIENT_ID" value=""/>
+    <add key="CLIENT_PRIVATE_KEY" value=""/>
+
+    <!-- Where you want to store Oath2.0 access token and log file -->>
+    <add key="TokenPath" value="./token"/>
+    <add key="LogFilePath" value="./log"/>
+  </appSettings>
+</configuration>
