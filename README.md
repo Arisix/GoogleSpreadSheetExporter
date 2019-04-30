@@ -19,7 +19,7 @@ Greet a list of individuals with an optional message.
 If no message is specified, a generic greeting is used.
 
 Options:
-  -i, --input=VALUE          Config file path.(Not app.config.)
+  -i, --input=VALUE          Config file path.(Not App.config.)
   -o, --output=VALUE         Output directory path.
   -h, --help                 show this message and exit
 ```
